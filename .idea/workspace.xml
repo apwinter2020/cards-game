@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a4710e-4788-4076-98a1-01878bf7b5ac" name="Default Changelist" comment="" />
+    <list default="true" id="f9a4710e-4788-4076-98a1-01878bf7b5ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YZhljTEJJWz6nxNC1EiYB0gaeE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,17 +74,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583156176565</updated>
+      <workItem from="1583156180035" duration="4626000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="217" width="916" height="679" key="#Project_Structure" timestamp="1583156191323">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="555" y="217" width="916" height="679" key="#Project_Structure/0.32.1920.1048@0.32.1920.1048" timestamp="1583156191323" />
+    <state x="768" y="275" width="374" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1583160460818">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="768" y="275" width="374" height="564" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1583160460818" />
     <state x="794" y="451" width="321" height="212" key="Github.ShareDialog" timestamp="1583156266353">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="794" y="451" width="321" height="212" key="Github.ShareDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1583156266353" />
+    <state width="912" height="221" key="GridCell.Tab.0.bottom" timestamp="1583156331510">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="912" height="221" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1583156331510" />
+    <state width="912" height="221" key="GridCell.Tab.0.center" timestamp="1583156331509">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="912" height="221" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1583156331509" />
+    <state width="912" height="221" key="GridCell.Tab.0.left" timestamp="1583156331507">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="912" height="221" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1583156331507" />
+    <state width="912" height="221" key="GridCell.Tab.0.right" timestamp="1583156331509">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="912" height="221" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1583156331509" />
+    <state x="693" y="310" width="524" height="493" key="extract.method.dialog" timestamp="1583158638913">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="310" width="524" height="493" key="extract.method.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1583158638913" />
   </component>
 </project>
